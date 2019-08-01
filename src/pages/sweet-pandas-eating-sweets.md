@@ -1,6 +1,0 @@
----
-title: "Experiment, Discover, Illustrate"
-date: "2015-03-08"
----
-
-Teams bounce between states of conceptual and actual. As they dribble the ball, they lose sight of which state they are in. Good concepts go stale quickly. I call my approach EDI; Experiment, Discover, Illustrate. It’s a bias-to-action strategy to immediately actualize individual ideas. A successful project is made up of smaller units of proven concepts. It’s a ground up approach that gives teams the ability to steer a project in the direction it needs to go.
