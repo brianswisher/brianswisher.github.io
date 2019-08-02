@@ -9,6 +9,7 @@ module.exports = {
     title: `Brian Swisher`,
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
